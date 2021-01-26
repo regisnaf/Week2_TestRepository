@@ -14,7 +14,7 @@ package week1;
 public class reverseWord {
     public static void main(String[] args) {
        Scanner input = new Scanner(System.in);
-       System.out.println("Enter a word");
+       System.out.println("Enter a word.");
        String temp = input.nextLine();
        
        char [] word = new char [temp.length()];
