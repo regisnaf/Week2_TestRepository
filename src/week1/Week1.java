@@ -23,7 +23,7 @@ public class reverseWord {
           word[i] = temp.charAt(i);
        }
        
-       System.out.println("The entered string is: ");
+       System.out.println("The entered string is : ");
        for (char k: word) {
        System.out.println(k);
        }
